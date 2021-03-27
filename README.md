@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Reza
-- 👀 I’m interested in many things such as embedded systems, RTOS, bioinstrumentation projects, general programming, electronic circuit design.
-- 🌱 I’m currently working on the ideas and applications of IoT solutions in telemonitory and telemedicine.
-- 💞️ I’m looking to collaborate on telemedicine and telerehabilitation solutions.
-- 📫 If you have any questions Do not hesitate to contact me via my email: mr.naeemabadi@gmail.com
+- 👋 Hi, It's Reza. 
+-  A dude in many things such as embedded systems, RTOS, bioinstrumentation projects, general programming, electronic circuit design.
+- I mostly invest my time on the ideas and applied solutions in telemonitoring and telemedicine.
+- Do not hesistate writing me an [email](mailto:mr.naeemabadi@gmail.com) if you have questions or ideas ;) 
 
 <!---
 rezaneam/rezaneam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
