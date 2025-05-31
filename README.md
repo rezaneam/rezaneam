@@ -1,9 +1,2 @@
-- 👋 Hi, It's Reza. 
--  A dude in many things such as embedded systems, RTOS, bioinstrumentation projects, general programming, electronic circuit design.
-- I mostly invest my time on the ideas and applied solutions in telemonitoring and telemedicine.
-- Do not hesistate writing me an [email](mailto:mr.naeemabadi@gmail.com) if you have questions or ideas ;) 
-
-<!---
-rezaneam/rezaneam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Reza. studied biomedical engineering, focusing on bioelectronics, signal processing, and telemedicine. I’ve worked in the IT sector for several years. 
+I enjoy embedded systems, RTOS, bioinstrumentation, general programming, and electronic circuit design in my free time. I have hands-on experience in electronic design, embedded systems, backend, and frontend development. For me, tools are just tools—the goal always comes first.
